@@ -1,7 +1,10 @@
 Install Xaamp software
-extract the Authentication
+download Authentication from github
+extract the Authentication-main
+cut Css folder into Authentication folder
+now copy Authentication folder
 go to C:\xampp\htdocs
-paste Extracted Authentication
+paste Authentication folder
 Start Apache,MySQL in Xaamp control panel
 now go to the http://localhost/phpmyadmin/ in chrome
 click on new
