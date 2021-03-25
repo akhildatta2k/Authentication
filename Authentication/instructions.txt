@@ -1,0 +1,14 @@
+Install Xaamp software
+extract the Authentication
+go to C:\xampp\htdocs
+paste Extracted Authentication
+Start Apache,MySQL in Xaamp control panel
+now go to the http://localhost/phpmyadmin/ in chrome
+click on new
+create database name as authentication
+import authentication.sql into the database
+now restart chrome
+in chrome go to http://localhost/Authentication/ 
+username:admin
+password:admin
+
